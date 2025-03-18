@@ -54,10 +54,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Henrickk/Henrickk/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/henrickk/henrickk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/henrickk/henrickk/output/pacman-contribution-graph.svg">
